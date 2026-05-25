@@ -20,6 +20,7 @@ Hi there, I am Mohan G 👋
 
 
 🛠️ Tech Stack
+
 Linux
 
 Bash
